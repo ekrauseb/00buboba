@@ -1,0 +1,51 @@
+.carritoPosicionUno{
+  position: absolute; left: 0px; top: 30px;
+  width: 250px;
+  text-align: left;
+  z-index: 4;
+ color: maroon;
+}
+.carritoPosicionDos{
+  position: absolute; left: 0px; top: 130px;
+  width: 250px;
+  text-align: left;
+  z-index: 4;
+   color: maroon;
+
+}
+.carritoPosicionTres{
+  position: absolute; left: 0px; top: 230px;
+  width: 250px;
+  text-align: left;
+  z-index: 4;
+   color: maroon;
+
+}
+.carritoPosicionCuatro{
+  position: absolute; left: 0px; top: 330px;
+  width: 250px;
+  text-align: left;
+  z-index: 4;
+   color: maroon;
+
+}
+
+.CantidadYProducto{
+  font-size: 1em;
+  line-height: 0.9em;
+  font-weight: bold;
+
+}
+.ColoresySubtotal{
+  font-size: 0.8em;
+  line-height: 1em;
+  font-weight: lighter;
+}
+.TotalCompra{
+  position: absolute; left: 0px; top: 430px;
+  font-size: 1.5m ;
+  color: maroon;
+  line-height: 1em ;
+  z-index: 4;
+  font-weight: bold;
+}

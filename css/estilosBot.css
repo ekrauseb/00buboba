@@ -1,0 +1,85 @@
+
+body{
+  margin:0;
+  padding:0;
+  text-decoration: none;
+}
+
+#lienzo{
+  background:url(grid.jpg);
+  z-index: 0;
+}
+
+.form{
+  border: none;
+  display: table cell;
+  margin: 0px;
+  padding: 0px;
+}
+
+.forma{
+ border: 3px solid lightgray;
+ background-color: lightgray;
+ padding:3px;
+ margin:0px;
+}
+.form1{
+  width: 40px;
+}
+.form2{
+  background-color: gray !important;
+  color: white !important;
+  width: 140px;
+  padding: 2px;
+  font-size: 12pt;
+  margin-right: 5px;
+  text-align: left;
+}
+.boton{
+  margin-left: 20px;
+  background-color: purple !important;
+  color: white !important;
+  width: 100px;
+  padding: 0;
+  font-size: 14pt;
+  font-weight: bold;
+}
+.botonproducto{
+  background-color: gray !important;
+  color: white !important;
+  width: 130px;
+  padding: 2px;
+  font-size: 12pt;
+  margin-right: 5px;
+  text-align: center;
+}
+.botonred{
+  margin-left: 20px;
+  background-color: red !important;
+  color: white !important;
+  width: 100px;
+  padding: 0;
+  font-size: 14pt;
+  font-weight: bold;
+}
+.fondo{
+  position: absolute; top: 180px;
+ margin: 10px;
+   margin-left: 20px;
+ width: 260px;
+ height: 280px;
+background-color: lightgray;
+z-index: 0;
+padding: 5px;
+}
+.producto{
+z-index: 2;
+  position: absolute; left: 10px; top: 15px;
+}
+.marca{
+z-index: 4;
+  position: absolute; left: 165px; top: 80px;
+}
+.botonver{
+  position: absolute; left: 170px; top: 620px;
+}

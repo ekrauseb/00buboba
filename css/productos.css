@@ -1,0 +1,88 @@
+.ocultaboton{
+opacity: 0;
+}
+
+
+.camisetadefault{
+fill:purple;
+fill-opacity: 0;
+}
+
+.conjpeg{
+  background:url(80.jpg);
+  z-index: 3;
+}
+
+
+
+.camisetamorado{
+fill:purple;
+fill-opacity: 1;
+}
+
+.camisetaamarilla{
+fill:yellow;
+fill-opacity: 1;
+}
+.camisetarojo{
+fill:red;
+fill-opacity: 1;
+}
+
+.camisetaolive{
+fill:olive;
+fill-opacity: 1;
+}
+
+.calcetindefault{
+fill:purple;
+fill-opacity: 0;
+}
+.calcetinmorado{
+fill:purple;
+fill-opacity: 1;
+}
+
+.calcetinamarillo{
+fill:yellow;
+fill-opacity: 1;
+}
+.calcetinrojo{
+fill:red;
+fill-opacity: 1;
+}
+
+.calcetinolive{
+fill:olive;
+fill-opacity: 1;
+}
+
+
+.treboldefault{
+fill:white;
+fill-opacity: 0;
+}
+
+.trebolblanco{
+fill:white;
+fill-opacity: 1;
+}
+.trebolmorado{
+fill:purple;
+fill-opacity: 1;
+}
+
+
+
+.triangulodefault{
+fill:white;
+fill-opacity: 0;
+}
+.trianguloblanco{
+fill:white;
+fill-opacity: 1;
+}
+.triangulomorado{
+fill:purple;
+fill-opacity: 1;
+}
