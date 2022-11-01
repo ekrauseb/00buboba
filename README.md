@@ -1,5 +1,9 @@
 # 00buboba
 
+
+es un desarrollo de aplicación web php de comercio electrónico con finalidades didácticas y código 100% nativo, dentro de los correspondientes a docenciaEKB. (Proyecto en fase de realización). puede verse en http://librovisitas.myartsonline.com/
+
+
 Debe crearse una base de datos en el PHPMyAdmin
 
 nombre "buboba" UFT8 general_cli
