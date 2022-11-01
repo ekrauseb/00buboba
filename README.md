@@ -3,6 +3,7 @@
 
 es un desarrollo de aplicación web php de comercio electrónico con finalidades didácticas y código 100% nativo, dentro de los correspondientes a docenciaEKB. (Proyecto en fase de realización). puede verse en http://librovisitas.myartsonline.com/
 
+debe estar colocada en una carpeta 00buboba
 
 Debe crearse una base de datos en el PHPMyAdmin
 
